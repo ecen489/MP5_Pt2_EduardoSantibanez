@@ -1,0 +1,43 @@
+“For you are like whitewashed tombs-beautiful on the outside but filled on the inside with dead peoples bones and all sorts of impurities”
+“I made a covenant with my eyes not to look with lust at a young woman”
+“And they did not repent of their murders or their witchcraft or their sexual immorality or their thefts”
+“If you try to hang on to your life you will lose it. But if you give up your life for my sake, you will save it”
+“But the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word making it unfruitful”
+“The axe is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire”
+“If you do what is right will you not be accepted? But if you do not do what is right, sin is crouching at your door, it desires to have you, but you must rule over it.”
+Mathew 23:27
+Job 31:1
+Revelation 9:21
+Matthew 16:25
+Mark 4:19
+Matthew 3:10
+Genesis 4:7
+In process of loading up, but not fully loaded.
+Done loading and now visible on the screen.
+Partially obscured or out of focus, but not shut down
+No longer active, but still in the device's active memory.
+Shut down and no longer currently loaded in memory.
+provides unreliable transfer of groups of bytes (“datagrams”) between client and server
+If calling activity wants to wait for a result from called activity:
+starting
+running
+paused
+stopped
+destroyed
+udp
+start activity result
+The best achievable utility against a rational(optimal) adversary
+while examining the children of a maximizer if v of maximizer> beta, prune the rest of the children
+while examining the children of a minimizer if v of minimizer< alpha, prune the rest of the children
+visits nodes until you reach a node which doesn’t have a non visited node
+visits node level by level in a graph
+expand deepest node first
+expand a shallowest node first in layers
+Minimax value
+alpha
+beta
+depth first
+breadth first
+depth first
+breadth first
+breadth first

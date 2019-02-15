@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="start">Choose a Quiz Topic</string>
+    <string-array name="quizTopics">
+        <item>Bible Verses</item>
+        <item>Android Trivia</item>
+        <item>AI Topics</item>
+    </string-array>
+    <string name="checkButton">Check Answer</string>
+</resources>
